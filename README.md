@@ -19,7 +19,7 @@ Russian language education; Russian cultural awareness; linguocultural competenc
 
 ## PDF
 
-Upload the final PDF to the repository root as `Russian-Cultural-Awareness-in-Foreign-Language-Education.pdf` before creating a Zenodo release.
+Upload the final PDF to the repository root as `Russian Cultural Awareness in Foreign Language Education.pdf` before creating a Zenodo release.
 
 ## DOI
 
